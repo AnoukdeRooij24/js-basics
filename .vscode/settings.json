@@ -1,5 +1,6 @@
 {
   "files.autoSaveDelay": 0,
   "editor.quickSuggestionsDelay": 0,
-  "editor.suggest.showUnits": false
+  "editor.suggest.showUnits": false,
+  "liveServer.settings.port": 5501
 }
